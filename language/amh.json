@@ -413,7 +413,7 @@
     "fooocus (json)": "fooocus (json)",
     "a1111 (plain text)": "a1111 (plain text)",
     "Unsupported image type in input": "Unsupported image type in input",
-    "Enhance": "Enhance",
+    "Enhance": "",
     "Detection prompt": "Detection prompt",
     "Detection Prompt Quick List": "Detection Prompt Quick List",
     "Maximum number of detections": "Maximum number of detections",
